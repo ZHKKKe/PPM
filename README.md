@@ -54,12 +54,11 @@ All annotated alpha mattes in PPM are released under the [Creative Commons Attri
 If you use this PPM benckmark, please cite:
 
 ```bibtex
-@article{MODNet,
-  author = {Zhanghan Ke and Kaican Li and Yurou Zhou and Qiuhua Wu and Xiangyu Mao and Qiong Yan and Rynson W.H. Lau},
-  title = {Is a Green Screen Really Necessary for Real-Time Portrait Matting?},
-  journal={ArXiv},
-  volume={abs/2011.11961},
-  year = {2020},
+@InProceedings{MODNet,
+  author = {Zhanghan Ke and Jiayu Sun and Kaican Li and Qiong Yan and Rynson W.H. Lau},
+  title = {MODNet: Real-Time Trimap-Free Portrait Matting via Objective Decomposition},
+  booktitle = {AAAI},
+  year = {2022},
 }
 ```
 
