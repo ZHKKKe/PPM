@@ -31,7 +31,7 @@ PPM is a portrait matting benchmark with the following characteristics:
 - **Rich Diversity** - The images cover full/half body and various postures.
 - **High Resolution** - The resolution of images is between 1080p and 4k.
 
-Following is an example image:
+Below is an example image:
 
 <img src="doc/image/example.png" width="100%">
 
